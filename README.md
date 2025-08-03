@@ -22,7 +22,7 @@ Developed by Vahe Demirkhanyan | [hackvector.io](https://hackvector.io)
 ## Installation
 
 ```bash
-git clone https://github.com/yourname/echotrail.git
+git clone https://github.com/5u5urrus/echotrail.git
 cd echotrail
 pip install -r requirements.txt
 ```
