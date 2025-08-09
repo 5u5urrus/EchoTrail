@@ -1,4 +1,6 @@
 # EchoTrail - Track Hidden Paths Through Time
+<img width="1536" height="1024" alt="632cead8-ddd0-4110-b854-a07948b9e8b4" src="https://github.com/user-attachments/assets/71b37e30-c702-4828-a670-f7cc15d22bf7" />
+
 
 **EchoTrail** is a best of its kind, fast and precise Python tool that mines the Wayback Machine for archived URLs, extracts unique parameterized paths, filters noise, and verifies which URLs are still live. It’s designed for red teamers, bug bounty hunters, and OSINT professionals.
 
